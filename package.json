@@ -1,0 +1,15 @@
+{
+  "name": "grid-lite",
+  "version": "0.1.0",
+  "description": "Type Script library base on SlickGrid, but decoupled from jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "table",
+    "grid"
+  ],
+  "author": "Greg Lecki",
+  "license": "MIT"
+}
